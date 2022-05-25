@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>**All You Need To know About Cats**</title>
+    </head>
+    <body>
 
-You can use the [editor on GitHub](https://github.com/Kelving320/Central-Library/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <h1>All You Need To Know About Cats</h1>
+    
+    <h2>Info regulars know</h2>
+    
+    <p>Cats, they meow, they stalk, they attack, very sneaky creatures,<br>
+      GREAT to make an ally with before they attack you.<br>
+      These magical creature have Nine Lives and are very agile when needed to.<br>
+      An overall good companion but very lazy and needs lots of pets, food, cat nip, and sleep.<br>
+      they are often seen in their natural habitats that is a very sunny place like a window.<br> 
+      Very vulurable to scary things like cucumbers and taking baths.</p>
+    
+    <h2>Music about the Cat</h2>
+    
+    <p>Everybody wants to be a cat<br>
+      Because a cat's the only cat<br>
+      Who knows where it's at<br>
+      Tell me, everybody's pickin' up on that feline beat<br>
+      'Cause everything else is obsolete<br>
+      A square with a horn makes you wish you weren't born<br>
+      <h4>Source from Disney's <strong>"The Aristocats"</strong> Song name <strong>"Ev'rybody Wants to Be a Cat"</strong>
+      </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kelving320/Central-Library/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+    </body>
+</html>
